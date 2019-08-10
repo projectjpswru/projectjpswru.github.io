@@ -24,13 +24,13 @@ a{text-decoration:none;}
 .copyrightby p {font-size: 11px;color: white;}
 .copyrightby a {font-size: 11px;color: white;}
 /*кнопки*/
-.startgame {width: 140px;float: left;} 
-.startgamesa {
+.error1 {width: 600px;float: left;} 
+.error {
   margin-top: 5px;
   text-decoration: none;
   outline: none;
   display: inline-block;
-  width: 140px;
+  width: 600px;
   height: 45px;
   line-height: 45px;
   border-radius: 45px;
@@ -40,15 +40,12 @@ a{text-decoration:none;}
   letter-spacing: 3px;
   font-weight: bold;
   color: white;
-  background: #2EE59D;
-    background-size: 560px 180px;
-  box-shadow: 0 0px 15px rgba(46,229,157,.4);
-  transition: .1s;}
- .startgamesa:hover {
-  background: url(https://i.ibb.co/HD9tgw9/2rNWjz6.gif) black;
-  background-position: 50% 50%;
-  background-size: 200px 100px;
-  box-shadow: 0 15px 20px rgba(0,0,0,.1);
+  background: #ff4242;
+   box-shadow: 0 0px 20px rgba(255,66,66,0.71);
+  transition: .5s;}
+ .error:hover {
+  background-color: #ff6d6d;
+   box-shadow: 0 0px 20px rgba(255,66,66,0.71);
   color: white;
 
 }

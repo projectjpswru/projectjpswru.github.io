@@ -11,3 +11,26 @@
 .chartext {padding-bottom: 20px;}
 .chari1 {width: 100%}
 .chari2 {background-repeat: no-repeat;width: 600px;}
+.error1 {width: 600px;margin: left;} 
+.error {
+  margin-top: 5px;
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  width: 600px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 45px;
+  font-size: 11px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: bold;
+  color: white;
+  background: #ff4242;
+   box-shadow: 0 0px 20px rgba(255,66,66,0.71);
+  transition: .5s;}
+ .error:hover {
+  background-color: #ff6d6d;
+   box-shadow: 0 0px 20px rgba(255,66,66,0.71);
+  color: white;

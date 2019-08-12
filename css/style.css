@@ -23,7 +23,7 @@ a{text-decoration:none;}
 .copyrightby {width: 400px;float:right;margin-top: 30px;}
 .copyrightby p {font-size: 11px;color: white;}
 .copyrightby a {font-size: 11px;color: white;}
-.eventnews {width: 1000px;}
+.eventnews {width: 1000px;height: 1200px}
 /*кнопки*/
 .startgame {width: 140px;float: left;}
 .startgamesa {

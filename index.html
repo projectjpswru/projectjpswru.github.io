@@ -27,9 +27,11 @@
 </head>
 <body>
     <script type="text/javascript">  
-$.get('events/index.html', function (data) {  
-  $('#eventnews').html( $('.eventdiv', data).html() ) 
-});  
+$(function() {    
+   $("#eventnews").click(function() {
+       $('#container').load('events/index.html');
+   });   
+});
 </script>
 	<div class="navbar">
  <div class="container">

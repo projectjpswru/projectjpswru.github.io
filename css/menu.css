@@ -6,7 +6,7 @@
   height: 70px;
   line-height: 70px;
   background-color: white;
-  border-bottom: 1px solid black;
+box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
 .mlogo {width: 120px; float: left;}
 .menu {float: right;padding: 0;margin: 0;}
@@ -15,7 +15,7 @@
 .menu li:hover{background-color: #53e8ae;color: red;}
 .menu li a:hover{color: white;}
 
-.navbar_fixed {position: fixed;background:#ffffffcf; height: 50px;backdrop-filter: blur(5px);}
+.navbar_fixed {position: fixed;background:#ffffffcf; height: 50px;box-shadow: 0 0 5px rgba(0,0,0,0.5);  border-bottom: 0;}
 
 .navbar_fixed li {height: 50px;line-height: 50px;}
 .navbar_fixed .mlogo {width: 100px;}

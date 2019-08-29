@@ -1,9 +1,12 @@
+/*char index*/
+
+/*char page*/
 .charinfo {margin: 0 auto;max-width: 1700px;}
 .chari1 {margin: 0 auto;position: relative;max-width: 1600px;}
 .chari2 {position: relative; max-width:800px;}
-.namechar {font-size: 140px;text-transform: uppercase;text-shadow: 0 0px 20px rgba(255,66,66,0.71);}
-.namecharjp {margin-left:20px;font-size: 70px;text-transform: uppercase; text-shadow: 0 0px 20px rgba(255,66,66,0.71); }
-.chartext {font-size: 20px;padding: 5px;}
+.namechar {font-size: 125px;text-transform: uppercase;text-shadow: 0 0px 20px rgba(255,66,66,0.71);}
+.namecharjp {margin-left:10px;font-size: 62.5px;text-transform: uppercase; text-shadow: 0 0px 20px rgba(255,66,66,0.71); }
+.chartext {font-size: 20px;padding: 5px;text-shadow: 0 0px 10px rgb(7, 7, 7);}
 .h1t {padding-top: 80px;}
 .errorb {padding-top: 50px;padding-bottom: 50px;}
 .error {

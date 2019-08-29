@@ -1,4 +1,4 @@
-.character1 {border-radius: 5px;margin: 0 auto;position: relative;top:-200px;width: 1010px; height: 250px;background:white;box-shadow: 0 5px 10px rgba(0,0,0,0.5);}
+.character1 {border-radius: 5px;margin: 0 auto;position: relative;top:-200px;width: 1010px; height: 250px;background:white;box-shadow: 0 5px 10px rgba(0,0,0,0.5);transition: 0.5s;}
 .charactergreenline {background: #2EE59D;width: 100%; height: 5px;}
 .characterblock {text-align: center; padding: 20px 0 13px 0;text-decoration: none;list-style: none;float: left;margin: 0 10px;}
 .characterblock li {display: inline-block;margin: 0 5px;}
@@ -11,6 +11,7 @@
 .chartext {padding-bottom: 20px;}
 .chari1 {width: 100%}
 .chari2 {background-repeat: no-repeat;width: 600px;}
+.namechar {font-size: 60px;}
 .error1 {width: 600px;margin: left;} 
 .error {
   margin-top: 5px;
@@ -33,4 +34,4 @@
  .error:hover {
   background-color: #ff6d6d;
    box-shadow: 0 0px 20px rgba(255,66,66,0.71);
-  color: white;
+  color: white;}

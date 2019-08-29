@@ -1,0 +1,220 @@
+﻿••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+Japanese (Original)•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+►爪痕
+素早く抜刀し、敵を切り捨てます。
+追加攻撃で敵を切り刻み、最後に周囲の生命力を少量吸収する事で、HPを回復する。
+ 
+
+►鳥落とし
+刀を地面に刺し、敵を浮かせます。
+追加攻撃で宙に浮いた敵を切り上げます。
+最後に周囲の生命力を少量吸収する事で、HPを[3%]回復する。
+
+►猫刀・壱ノ型：瞬
+敵に飛び込み、回転切りで攻撃します。
+周囲の生命力を少量吸収する事で、HPを回復する。
+ 
+
+►猫刀・弐ノ型：隠爪
+抜刀する為の構えを取ります。
+追加操作で抜刀します。
+追加操作を行った場合ダメージが減少します。
+
+►血戦態勢
+自身の生命力を消費し、一定時間戦闘力を高めます。
+使用時に周囲にも追加効果を与えます。
+ 
+
+►捕食者の渇望
+ソウルジャンクエネルギーを使用する事で、
+周囲の敵を引き寄せます。
+その後、自身の身体の一部をソウルジャンク化し攻撃します。
+
+►猫刀・参ノ型：鷹狩
+敵を素早く切り、武器を投擲する事で追撃を加えます。
+追加操作で投擲した武器を回収します。
+ 
+
+►猫刀・肆ノ型：月斬
+回転切りで敵を打ち上げます。空中で追加攻撃を行います。
+
+►猫刀・伍ノ型：空襲
+空中から武器を投擲する。
+その後、強力な蹴りで攻撃し投擲地点に追加ダメージを与えます。
+ 
+
+►猫刀・陸ノ型：鬼
+素早い動きで連続攻撃を仕掛けます。
+追加操作で光速の打撃を行います。
+
+猫刀・零ノ型：刃嵐
+広域範囲の敵を素早く切り裂きます。
+ 
+
+►捕食者の怒り
+右手をソウルジャンク化し、突き攻撃をする。
+長押しで攻撃範囲は徐々に広がります。
+追加操作を行う事で、即時追加攻撃を行う事ができます。
+
+►捕食者の宣告
+ソウルジャンク化した武器で、
+広範囲を薙ぎ払い、爆発を起こし追撃します。
+ 
+
+►猫の柔軟性
+最大スタミナを増加させる。
+
+►熱望の猫刀
+一定時間毎に自動的にSGを回復します。
+基本攻撃が成功した場合、SGを回復します。
+一部の特性スキルを使用すると、SGを回復します。
+
+
+
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+Japanese -> English (Google Translate)••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+
+►Nail mark
+Remove the sword quickly and cut off the enemy. 
+By chopping up enemies with additional attacks, and finally absorbing a small amount of surrounding vitality, HP is restored.
+ 
+
+►Bird dropping
+Put a sword into the ground and lift the enemy. 
+Round up enemies floating in the air with additional attacks. 
+Finally, it recovers [3%] HP by absorbing a small amount of surrounding vitality.
+
+►Cat sword, sword type: Shun
+Dive into the enemy and attack with a rotation cut. 
+HP is recovered by absorbing a small amount of the surrounding vitality.
+ 
+
+►Cat sword / Tatsuno type: Hidden claws
+Take a stance to extract the sword. 
+Extract with additional operations. 
+Damage will be reduced if additional operations are performed.
+
+►Blood battle
+Consume your vitality and improve your combat power for a certain period of time. 
+Adds an additional effect to the surroundings when used.
+ 
+
+►Predator craving
+Use soul junk energy to 
+attract nearby enemies. 
+After that, part of his body is soul-junked and attacked.
+
+►Cat sword / Sanno type: falconry
+Quickly cut enemies and add pursuits by throwing weapons. 
+Collect weapons thrown by additional operations.
+ 
+
+►Cat sword / Tatsuno type: Tsukislash
+The enemy is launched by turning off. Perform additional attacks in the air.
+
+►Cat sword, sword type: air raid
+Throw weapons from the air. 
+Then attack with a powerful kick to do additional damage at the throwing point.
+ 
+
+►Cat sword, land type: Demon
+Perform continuous attacks with quick movement. 
+Strike the speed of light with additional operations.
+
+►Cat Sword / Zero Type: Blade Arashi
+Quickly cut enemies in a wide area.
+ 
+
+►Predator's anger
+Turn right hand into soul junk and attack. 
+Long press will gradually increase the attack range. 
+By performing additional operations, you can perform immediate additional attacks.
+
+►Declaration of predators
+Use a soul-junked weapon 
+to sweep through a wide area, explode and pursue.
+ 
+
+►Cat flexibility
+Increase maximum stamina.
+
+►Aspiring cat sword
+SG is automatically recovered at regular intervals. 
+If the basic attack is successful, recover the SG. 
+Use some trait skills to recover SG.
+
+
+
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+English -> Russian (Google Translate&TheFunnyDay&Slimik263)••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+►Nail mark
+Быстро убирает меч и режет врага.
+Поражая врагов дополнительными атаками и, наконец, поглощая небольшое количество окружающей энергии, восстанавливает  HP.
+ 
+
+►Bird dropping
+Воткни меч в землю и подбрось врага. 
+Убейте врагов, плавающих в воздухе, с дополнительными атаками. 
+Он восстанавливает [3%] HP, поглощая небольшое количество окружающей энергии.
+
+►Cat sword, sword type: Shun
+Погрузитесь в толпу врагов и атакуйте с помощью ротации.HP восстанавливается путем поглощения небольшого количества окружающей энергии.
+ 
+
+►Cat sword / Tatsuno type: Hidden claws
+Встаньте в боевую стойку, чтобы достать меч.Комбинируя с дополнительными движениями.Урон будет снижен, если будут выполнены дополнительные движения.
+
+►Blood battle
+Поглотите свою жизненную энергию и улучшите свою боевую мощь в течение определенного периода времени.Добавляет дополнительный эффект к окружению при использовании.
+ 
+
+►Predator craving
+Используйте энергию души, чтобы привлечь ближайших врагов. После этого тело врага подвергается нападкам души.
+
+►Cat sword / Sanno type: falconry
+Быстро режь врагов и притяни их, бросая оружие. Соберите оружие, брошенное дополнительными движениями.
+ 
+
+►Cat sword / Tatsuno type: Tsukislash
+Враг подлетает путем удара. Выполните дополнительные атаки в воздухе.
+
+►Cat sword, sword type: air raid
+Бросай оружие в воздухе. Затем атакуйте мощным ударом, чтобы нанести дополнительный урон в точке броска.
+ 
+
+►Cat sword, land type: Demon
+Выполняйте непрерывные атаки быстрыми движениями. Достигните скорость света с помощью дополнительных движений.
+
+►Cat Sword / Zero Type: Blade Arashi
+Быстро режьте врагов на большой области.
+ 
+
+►Predator's anger
+Выпусти душу из правой руки и атакуй.Длительное нажатие будет постепенно увеличивать дальность атаки.Выполняя дополнительные движения, вы можете совершать быстрые дополнительные атаки.
+
+►Declaration of predators
+Используйте оружие души по обширной территории, чтобы взорвать и притянуть.
+ 
+
+►Cat flexibility
+Увеличьте максимальную выносливость.
+
+►Aspiring cat sword
+SG автоматически восстанавливается через равные промежутки времени. Если базовая атака прошла успешно, то восстанавливается SG. Используйте некоторые навыки, чтобы восстановить SG.
+
+
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••

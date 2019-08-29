@@ -12,8 +12,8 @@ box-shadow: 0 0 5px rgba(0,0,0,0.5);
 .menu {float: right;padding: 0;margin: 0;}
 .menu li {float: left;width: 150px;height: 70px;line-height: 70px;text-align: center;list-style: none;}
 .menu li a {color: black;text-decoration: none;text-transform: uppercase;display: block;transition-duration: .5s;}
-.menu li:hover{background-color: #53e8ae;color: red;}
-.menu li a:hover{color: white;}
+.menu li:hover{background-color: #53e8ae;color: red;transition-duration: .5s;}
+.menu li a:hover{color: white;transition-duration: .5s;}
 
 .navbar_fixed {position: fixed;background:#ffffffcf; height: 50px;box-shadow: 0 0 5px rgba(0,0,0,0.5);  border-bottom: 0;}
 

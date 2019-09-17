@@ -1,11 +1,11 @@
 .container {width: 90%;margin: 0 auto;}
-.navbar { position: fixed;  transition: all .5s;
+.navbar { position: fixed;  backdrop-filter: blur(5px);transition: all .5s;
 	z-index: 99;
   width: 100%;
   overflow: hidden;
   height: 70px;
   line-height: 70px;
-  background-color: white;
+  background-color: #ffffffcf;
 box-shadow: 0 0 5px rgba(0,0,0,0.5);
 }
 .mlogo {width: 120px; float: left;transition-duration: .5s;}
@@ -15,7 +15,7 @@ box-shadow: 0 0 5px rgba(0,0,0,0.5);
 .menu li:hover{background-color: #53e8ae;color: red;transition-duration: .5s;}
 .menu li a:hover{color: white;transition-duration: .5s;}
 
-.navbar_fixed {position: fixed;background:#ffffffcf; height: 50px;box-shadow: 0 0 5px rgba(0,0,0,0.5);  border-bottom: 0;}
+.navbar_fixed {position: fixed; height: 50px;box-shadow: 0 0 5px rgba(0,0,0,0.5);  border-bottom: 0;}
 
 .navbar_fixed li {height: 50px;line-height: 50px;}
 .navbar_fixed .mlogo {width: 100px;}

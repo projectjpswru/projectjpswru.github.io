@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic,cyrillic-ext,latin-ext');
+﻿@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i,900,900i&display=swap&subset=cyrillic,cyrillic-ext,latin-ext');
 /*скролл*/
 ::-webkit-scrollbar              { background-color: ;width: 5px; }
 ::-webkit-scrollbar-button       {background-color: red; height: 0px;width: 5px;}
@@ -8,23 +8,25 @@
 ::-webkit-scrollbar-corner       { /* 6 - уголок */ }
 ::-webkit-resizer                { width: 5px; }
 /*index*/
-*, *:before, *:after {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0}
+*, *:before, *:after, h1 {-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0}
 body{font-family: 'Roboto', sans-serif;background: white;}
 a{text-decoration:none;}
-/*прочее*/
+/*прочее margin:20px 20px 20px 20px;*/
 .banner {width: 100%; height: 600px;background: #00eaff;}
-.gamestart {width: 100%;height: 100%;background: url(../img/gamestart2summer.jpg);background-position: center;background-repeat: no-repeat;}
-.divstart {width: 900px;height: 220px;background:#fff;box-shadow: 0 0 10px rgba(0,0,0,0.5);margin: 0 auto;position: relative;top: -150px;border-radius: 5px;}
-.swlogo {width: 160px; margin-left: 20px; padding-top: 10px; float: left;}
-.swlogo1 {width: 150px; border-radius: 20px;}
-.nametag {padding-top: 30px;}
+.gamestart {width: 100%;height: 100%;background: url(../img/gamestart2summer.jpg);background-position: center;background-repeat: no-repeat;overflow:hidden}
+.divstart {width: 1300px;height: 220px;background:#fff;box-shadow: 0 0 10px rgba(0,0,0,0.5);margin: 0 auto;position: relative;top: -150px;border-radius: 5px;}
+.swlogo {width: 180px;  float: left;}
+.swlogo1 {width: 180px; border-radius: 20px;}
+.nametag {padding-top: 30px;padding-left: 10px;overflow:hidden;width: 230px;}
+.nametag h1 {width: 230px;}
 .downblock {width: 100%;height: 250px;background:#383c3d;}
 .centerinfdownblock {margin: 0 auto;height: 200px;width: 550px;}
 .copyrightby {width: 550px;margin-top: 30px;margin: 0 auto; text-align: center;}
+.div2start {padding:20px 20px 20px 20px;width: 100%;height: 100%;}
 .copyrightby p {font-size: 11px;color: white;}
 .copyrightby a {font-size: 11px;color: white;}
 /*кнопки*/
-.startgame {width: 140px;float: left;}
+.startgame {width: 140px;float: left;margin-left: 10px;}
 .startgamesa {
   margin-top: 5px;
   text-decoration: none;

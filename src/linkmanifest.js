@@ -1,5 +1,5 @@
 let link = { 
-    vk: "https://vk.com/project_jsr",
+    vk: "https://vk.com/soulworker_jsr",
     ofsite: "http://hg-soulworker.gamecom.jp",
     news: "/news",
     bugReport: "/bugreport",

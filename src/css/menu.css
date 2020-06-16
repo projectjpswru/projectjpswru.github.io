@@ -1,0 +1,117 @@
+#js-menu {
+    user-select: none;
+    -webkit-user-select:none;
+    -webkit-user-drag: none;
+}
+
+#js-menu .menu { 
+    
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    height: 80px;
+    background-color: var(--main-black);
+}
+#js-menu .menu .menu-logo {
+    width: 95px;
+    height: 40px;
+    position: relative;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   margin-left: 60px;
+    background-image: url(/favicon.svg);
+    background-position: center;
+    background-size: contain;
+}
+.menu-burger {
+    float: left;
+    margin-top: 19px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+#burger-line {margin-top: 10px; background-color: white;   transition: .2s;}
+#js-menu .menu .menu-burger .line1 {width: 20px;height: 1px;}
+#js-menu .menu .menu-burger .line2 {width: 30px;height: 1px;}
+#js-menu .menu .menu-burger .line3 {width: 40px;height: 1px;}
+.line-max {width: 40px;}
+
+#js-menu .menu .menu-burger:hover .line1 {
+    width: 23px;
+    background-color:#ffb9b9 ;
+}
+    #js-menu .menu .menu-burger:hover .line2 {
+        width: 33px;
+        background-color:#ffb9b9 ;
+    }
+    #js-menu .menu .menu-burger:hover .line3 {
+
+        background-color:#ffb9b9 ;
+    }
+.menu-list {
+    color: white;
+    padding-top: 26px;
+    padding-bottom: 26px;
+    text-transform: uppercase;
+    width: 310px;
+    float: left;
+}
+
+.menu-list li {
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    transition: 0.5s;
+    font-size: 24px;
+}
+
+.menu-list li:hover {color: var(--main-red)}
+.menu-list a {text-decoration: none; color: white;}
+
+.menu-ofsite {
+    color: white;
+    float: right;
+    text-transform: uppercase;
+    font-size: 14px;
+    background-color: var(--main-red);
+    padding: 11px 55px 12px 55px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 60px;
+    border-radius: 5px;
+}
+
+.pod-menu {
+    z-index: 98;
+    position: fixed;
+    height: 100%;
+    width: 400px;
+    left: -400px; 
+    transition: 0.5s;
+    background-color: var(--main-black-opacity5);
+    float: left;
+    backdrop-filter: var(--blur20);
+    -webkit-backdrop-filter: var(--blur20);
+    text-transform: uppercase;
+    color: white;
+}
+
+.pod-menu li {width: 100%;
+    height: 60px;
+    text-align: center;
+    padding-top: 16px;
+    font-size: 24px;
+    list-style: none;
+
+}
+
+.pod-menu li:hover {background-color: var(--main-red);}
+.pod-menu ul a {text-decoration: none; color: white;}
+.menu-main-info {
+    font-size: 13px;
+position: absolute;
+bottom: 0;
+margin-bottom: 42px;
+text-align: center;
+}
+.menu-main-info a {color: var(--main-red);}

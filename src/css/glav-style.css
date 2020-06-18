@@ -4,14 +4,15 @@ body {
 
 .banner {
     width: 100%;
-    height: 1080px
+    height: 1080px;
+
 }
 
 .bgImg {
     height: 1080px;
     width: 100%;
     position: absolute;
-    background-image:url(/img/bg/bg-sw.jpg);
+    /* background-image:url(/img/bg/bg-sw.jpg); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -67,4 +68,28 @@ body {
     background-position: 476px 10%;
     background-size: 1800px;
     height: 100%;
+}
+
+.videoBG {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+#player {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    margin: auto;
 }

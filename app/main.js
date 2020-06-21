@@ -2,9 +2,7 @@ document.querySelector('#app').innerHTML = `
 <div class="banner">
 <div class="bgImg">
 <div class="videoBG">
-<div>
-    <video id="player"></video>
-    </div>
+
 </div>
     <div class="bgMark">
     <div class="bgOpacity">
@@ -25,18 +23,3 @@ document.querySelector('#app').innerHTML = `
 </div>
 </div>`;
 
-const player = new Plyr('#player', {
-  autoplay: 'true',
-  ratio: 'w:h'
-});
-player.source = {
-    type: 'video',
-    sources: [
-      {
-        // src: '/src/videobg/soulworkerbg.mov',
-        src: `w_bdILgIm9Q`,
-        provider: "youtube"
-
-      },
-    ],
-  };

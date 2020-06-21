@@ -12,7 +12,7 @@ body {
     height: 1080px;
     width: 100%;
     position: absolute;
-    /* background-image:url(/img/bg/bg-sw.jpg); */
+    background-image:url(/img/bg/bg-sw.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
